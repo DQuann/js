@@ -4,3 +4,8 @@
 document.getElementById("darkmode").addEventListener("click",function(){var e=document.body.classList.toggle("night");localStorage.setItem("darkmode-banner",e)}),jQuery(document).ready(function(e){e(function(){e("darkmode").click(function(e){e.preventDefault()})})});
 // grid mode
 document.getElementById("gridmode").addEventListener("click",function(){var e=document.body.classList.toggle("list");localStorage.setItem("gridmode-banner",e)}),jQuery(document).ready(function(e){e(function(){e("gridmode").click(function(e){e.preventDefault()})})});
+// Ctrl u
+var _0x4300=["onkeydown","ctrlKey","keyCode","Vui lòng không lấy cắp thông tin dưới mọi hình thức","Template Re-Designed By Nguyễn Duy Quân","Cảm ơn bạn !"];document[_0x4300[0]]=function(n){if(n[_0x4300[1]]&&85===n[_0x4300[2]]){if(1!=confirm(_0x4300[3]))return alert(_0x4300[5]),!1;alert(_0x4300[4])}};
+// console
+console.log('DTH Media', 'font:2.5em Roboto;color:#ff0000')
+/* Js áp dụng cho cả Website */
